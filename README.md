@@ -2,7 +2,7 @@
 
 Use subprocess in python for execute git commands.
 
-## Usage
+## Usages
 
 ```python
 import subprocess
